@@ -1,0 +1,37 @@
+
+
+:root{
+--colorVerde: #39b54a;
+--colorAmarillo: #EAC926;
+--colorCeleste: #1259c3;
+--colorGrisOscuro: #666;
+--colorGrisClaro: #ebebeb;
+--colorAzul: #03264C;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif; 
+    margin: 0 auto;
+    box-sizing: border-box;
+    background-color: var(--colorGrisClaro);
+    max-width: 1180px;
+
+}
+
+h3{
+    text-align: left;
+    color:var(--colorGrisOscuro) ;
+    font-size: 24px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
